@@ -1,11 +1,11 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "Zetsu - Bot",
+  "Name": "ZETSU",
+  "Description": "Airdrops Bot, Solana wallet generator, 100% Free to use",
   "links": [
     {
       "Title": "Website",
-      "URL": "https://t.me/ztsu_bot",
+      "URL": "https://www.chordd.my.id/2024/01/no-hagas-esto-cuando-hagas-yoga.html",
       "icon_classes": "fas fa-link",
     },
     {
